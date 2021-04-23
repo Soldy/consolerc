@@ -1,0 +1,31 @@
+{
+  "name": "consolerc",
+  "version": "0.0.1",
+  "description": "cli toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Soldy/consolerc.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "Soldy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Soldy/consolerc/issues"
+  },
+  "homepage": "https://github.com/Soldy/consolerc#readme",
+  "dependencies": {
+    "commandseparatorrc": "0.0.1",
+    "consolebarrc": "0.0.6",
+    "consolegraphrc": "0.0.1",
+    "consolestdiorc": "0.0.4-r2",
+    "consolestylerc": "0.0.4-r1",
+    "consolewatchrc": "0.0.1",
+    "theuniverse": "^0.2.0"
+  }
+}
